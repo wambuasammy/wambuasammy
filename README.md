@@ -2,9 +2,9 @@
 
 **Penetration Tester | Security Engineer | DevSecOps**
 
-I specialize in identifying and exploiting security weaknesses across **applications, operating systems, and networks**, while also building **security automation tools** that help organizations strengthen their defenses.
+I specialize in identifying and exploiting security weaknesses across **applications, operating systems, networks, and cloud environments**, while also building **security automation tools** that help organizations strengthen their defenses.
 
-My work focuses on practical security engineering across the full stack of modern systems.
+My work focuses on practical security engineering across modern systems including **web applications, infrastructure, DevOps pipelines, and cloud-native environments**.
 
 ---
 
@@ -13,9 +13,9 @@ My work focuses on practical security engineering across the full stack of moder
 • Web Application Security
 • Operating System Hardening & CIS Benchmark Compliance
 • Network Security & Enumeration
+• Cloud Security & Container Security
 • Secure DevOps (DevSecOps)
 • Threat Modeling & Security Architecture
-• Security Automation
 
 ---
 
@@ -30,10 +30,10 @@ My work focuses on practical security engineering across the full stack of moder
 
 ### Infrastructure Security
 
-* Operating system hardening
-* CIS benchmark compliance auditing
-* System misconfiguration analysis
-* Privilege escalation testing
+* Operating system hardening and CIS benchmark compliance
+* Cloud security assessments and misconfiguration detection
+* Container and Kubernetes security analysis
+* System misconfiguration and privilege escalation testing
 
 ### Network Security
 
@@ -58,7 +58,7 @@ The framework performs automated security checks across system configuration, au
 
 ### Web Security Testing Toolkit
 
-A collection of tools designed to assist penetration testers in identifying common **web application vulnerabilities** such as insecure HTTP configurations, authentication weaknesses, and API security issues.
+A collection of tools designed to assist penetration testers in identifying common **web application vulnerabilities** including insecure HTTP configurations, authentication weaknesses, and API security issues.
 
 ### DevSecOps Security Pipeline
 
@@ -92,12 +92,12 @@ Semgrep • Trivy • Gitleaks • Checkov
 
 ## Current Focus
 
-Currently building security automation tools and research around:
+Currently building security tools and research around:
 
 • Linux security auditing and compliance
 • DevSecOps security pipelines
 • Web application security testing
-• Infrastructure security assessments
+• Infrastructure and cloud security assessments
 
 ---
 
